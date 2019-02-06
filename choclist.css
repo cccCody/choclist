@@ -1,0 +1,22 @@
+html,body{
+    height: 100%;
+}
+
+.navbar-fixed-top{
+    height: 60px;
+}
+
+.navbar-fixed-bottom{
+    height: 60px;
+    position: fixed;
+    bottom: 0;
+}
+
+#chocolate-list {
+    position: fixed;
+    top: 60px;
+    bottom: 60px;
+    left: 0;
+    right: 0;
+    overflow:auto;
+}
